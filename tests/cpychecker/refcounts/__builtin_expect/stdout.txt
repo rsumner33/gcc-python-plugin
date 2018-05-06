@@ -1,7 +1,0 @@
-Trace 0:
-  Transitions:
-    'PyErr_NoMemory() returns NULL, raising MemoryError'
-    'taking True path'
-    'returning'
-  Exception:
-    (struct PyObject *)&RegionForGlobal(gcc.VarDecl('PyExc_MemoryError')) from tests/cpychecker/refcounts/__builtin_expect/input.c:56
