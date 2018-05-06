@@ -1,3 +1,0 @@
-arr-range-min:0
-arr-range-max:36
-arr2-range:None

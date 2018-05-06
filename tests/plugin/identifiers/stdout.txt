@@ -1,4 +1,0 @@
-str(foo): foo
-type(foo): <type 'gcc.IdentifierNode'>
-str(bar): None
-type(bar): <type 'NoneType'>

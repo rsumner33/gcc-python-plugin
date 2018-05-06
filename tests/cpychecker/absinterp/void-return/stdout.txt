@@ -1,5 +1,0 @@
-Trace 0:
-  Transitions:
-    'returning'
-  Exception:
-    (struct PyObject *)0 from tests/cpychecker/absinterp/void-return/input.c:26
